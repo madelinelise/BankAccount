@@ -28,7 +28,7 @@ public class Account
     {
         get
         {
-            return Balance;
+            return balance;
         } //end get
         set
         {
